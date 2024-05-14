@@ -9,3 +9,5 @@ Szczegółowe Informacje Pogodowe: Oprócz podstawowych informacji, aplikacja do
 Technologie Wykorzystane
 Android: Aplikacja została zbudowana z wykorzystaniem platformy Android.
 API Pogodowe: Aplikacja używa zewnętrznego API pogodowego do pobierania aktualnych danych pogodowych. Aby zacząć korzystać z aplikacji, wymagane jest uzyskanie klucza API.
+
+![Zrzut ekranu (5)](https://github.com/PelcPawel/projektpogoda/assets/149686211/8219622c-6dbd-4d92-937a-033c3ea5d861)
